@@ -1,6 +1,6 @@
 {
 
-"buils": [
+"builds": [
 
     {
         "src": "./database.js",
