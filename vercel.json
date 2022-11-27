@@ -1,0 +1,26 @@
+{
+
+"buils": [
+
+    {
+        "src": "./database.js",
+        "use": "@vercel/node"
+    }
+
+],
+
+"routes": [
+   
+    {
+
+        "src": "/(.*)",
+        "dest": "/"
+
+
+
+
+
+    }
+]
+
+}
